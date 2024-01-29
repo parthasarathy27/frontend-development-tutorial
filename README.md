@@ -55,4 +55,6 @@ We encourage contributions! If you find a great resource, have a helpful tip, or
 
 Join our community to connect with other learners, ask questions, and share your progress. You can find us on [Discord](#) or [Slack](#).
 
+
+[image](https://www.w3.org/html/logo/badge/html5-badge-h-graphics.png)
 Happy coding! 🚀
