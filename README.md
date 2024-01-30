@@ -55,4 +55,6 @@ We encourage contributions! If you find a great resource, have a helpful tip, or
 
 Join our community to connect with other learners, ask questions, and share your progress. You can find us on [Discord](#) or [Slack](#).
 
+[image](https://assets.stickpng.com/thumbs/5847f5c3cef1014c0b5e489d.png)
+
 Happy coding! 🚀
