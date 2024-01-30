@@ -55,6 +55,6 @@ We encourage contributions! If you find a great resource, have a helpful tip, or
 
 Join our community to connect with other learners, ask questions, and share your progress. You can find us on [Discord](#) or [Slack](#).
 
-[image](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![image](https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png)
 
 Happy coding! 🚀
