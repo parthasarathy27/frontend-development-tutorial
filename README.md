@@ -57,7 +57,7 @@ Join our community to connect with other learners, ask questions, and share your
 
 # HTML, CSS, and JavaScript Explained :-
 
-This repository contains the fundamental components of web development: HTML, CSS, and JavaScript. Below is a brief explanation of each part:
+This repository contains the fundamental components of web development: HTML, CSS, and JavaScript. Below is a brief explanation of each part:-
 
 ## HTML (Hypertext Markup Language)
 
