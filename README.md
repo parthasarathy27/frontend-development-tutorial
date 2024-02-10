@@ -51,9 +51,9 @@ We encourage contributions! If you find a great resource, have a helpful tip, or
    ```
 5. **Open a Pull Request**
 
-## Community
+## Repository
 
-Join our community to connect with other learners, ask questions, and share your progress. You can find us on [Discord](#) or [Slack](#).
+Join our Repository to connect with other learners, ask questions, and share your progress. You can find us on [Discord](#) or [Slack](#).
 
 # HTML, CSS, and JavaScript Explained :-
 
@@ -118,7 +118,7 @@ let userInput = prompt("Enter your name:");
 alert("Hello, " + userInput + "!");
 ```
 
-Feel free to explore and modify these files to understand the basics of web development using HTML, CSS, and JavaScript. Happy coding!
+Feel free to explore and modify these files to understand the basics of web development using HTML, CSS, and JavaScript. Happy coding!!!
 
 ![image](https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png)
 
