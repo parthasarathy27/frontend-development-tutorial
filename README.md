@@ -4,7 +4,7 @@ Welcome to the Frontend Developer Learning Repository! This repository is design
 
 ![image](https://www.nicepng.com/png/full/249-2496315_full-stack-development.png)
 
-## Getting Started:-
+## Getting Started
 
 1. **Clone the Repository:**
    ```bash
