@@ -4,7 +4,7 @@ Welcome to the Frontend Developer Learning Repository! This repository is design
 
 ![image](https://www.nicepng.com/png/full/249-2496315_full-stack-development.png)
 
-## Getting Started
+## Getting Started:-
 
 1. **Clone the Repository:**
    ```bash
@@ -122,4 +122,4 @@ Feel free to explore and modify these files to understand the basics of web deve
 
 ![image](https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png)
 
-Happy coder's! 🚀...
+Happy coding! 🚀...
