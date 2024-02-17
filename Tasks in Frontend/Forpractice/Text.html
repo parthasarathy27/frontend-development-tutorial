@@ -1,0 +1,20 @@
+<table>
+    <tr>
+        <td>InputBox</td> <td><input id="inputbox" type="text"></td>
+    </tr>
+    <tr>
+        <td><h1 id="result">Result</h1></td>
+    </tr>
+    <tr>
+        <td><button onclick="result()">OnClickUp</button>
+    </tr>
+</table>
+
+<script>
+    var inputbox = document.getElementById('inputbox')
+
+    function result() {
+        var result = document.getElementById('result')
+        result.textContent = inputbox.value
+    }
+</script>

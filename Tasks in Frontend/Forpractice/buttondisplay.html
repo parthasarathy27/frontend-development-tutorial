@@ -1,0 +1,34 @@
+<h1 id="result">Level of Coding</h1>
+<button id="First" onclick="update(event)">Beginner</button>
+<button id="second" onclick="update(event)">Intermediate</button>
+<button id="third" onclick="update(event)">Advanced</button>
+
+<script>
+
+    var h1 = document.getElementById('result')
+
+    function update(event) {
+        h1.textContent = event.target.textContent
+    }
+
+</script>
+
+<style>
+    #result {
+        color: brown
+    } #First {
+        color: red
+    } #second {
+        color: green
+    } #third {
+        color: blue
+    }
+    #result:hover {
+        font-size: 50px;
+        color: blue;
+    }
+
+    #First:hover, #second:hover, #third:hover {
+        color: midnightblue;
+    }
+</style>
