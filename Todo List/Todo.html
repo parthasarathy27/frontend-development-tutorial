@@ -1,0 +1,51 @@
+<center><h1>Welcome My Todo List</h1>
+<input id="input">
+<button onclick="Add()">Add</button>
+</center>
+<ul id="list-container">
+</ul>
+
+<script>
+    var ul = document.getElementById('list-container')
+    var input = document.getElementById('input')
+    function Add() {
+        var listitem = document.createElement('li')
+        listitem.innerHTML = input.value + "<button onclick='Deleteitem(event)'> Delete</button>"
+        ul.append(listitem)
+    }
+
+    function Deleteitem(event) {
+        event.target.parentElement.remove()
+    }
+</script>
+
+<style>
+    button{
+        margin: 15px;
+        color: blue;
+    }
+    button:hover{
+        color: red;
+    }
+
+    html {
+        background-color: #f0f0f0;
+    }
+
+    ul {
+        list-style: cross-fade(50% 50%, circle, square);
+        color: #000000;
+    }
+
+    li {
+        background-color: multi-step(50% 50%, #ffffff, #f0f0f0);
+        padding: 10px;
+        margin: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 5px 0px #000000;
+    }
+    li:hover {
+        color: blueviolet;
+    }
+        
+</style>
