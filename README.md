@@ -120,6 +120,10 @@ alert("Hello, " + userInput + "!");
 
 Feel free to explore and modify these files to understand the basics of web development using HTML, CSS, and JavaScript. Happy coding!!!
 
+## Project Links
+
+1. https://parthasarathy27.github.io/frontend-development-tutorial/Event%20Management%20HTML%20Project/final/event.html
+
 ![image](https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png)
 
 Happy Coding!!🚀...
