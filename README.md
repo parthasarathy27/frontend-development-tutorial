@@ -125,6 +125,7 @@ Feel free to explore and modify these files to understand the basics of web deve
 1. https://parthasarathy27.github.io/frontend-development-tutorial/EMC%20Web%20Page%20HTML%20Project/starter/index.html
 2. https://parthasarathy27.github.io/frontend-development-tutorial/Event%20Management%20HTML%20Project/starter/event.html
 3. https://parthasarathy27.github.io/frontend-development-tutorial/Guess%20The%20Number/GTN.html
+4. https://parthasarathy27.github.io/frontend-development-tutorial/Todo%20List/Todo.html
 
 ![image](https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png)
 
