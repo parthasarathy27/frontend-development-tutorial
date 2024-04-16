@@ -1,4 +1,4 @@
-# Frontend Developer Learning Repository :-
+# Frontend Developer Learning Repository 
 
 Welcome to the Frontend Developer Learning Repository! This repository is designed to help you learn and improve your skills in frontend development. Whether you're a beginner or looking to enhance your existing knowledge, you'll find a variety of resources and projects to explore.
 
