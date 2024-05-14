@@ -117,8 +117,7 @@ function changeText() {
 let userInput = prompt("Enter your name:");
 alert("Hello, " + userInput + "!");
 ```
-
-Feel free to explore and modify these files to understand the basics of web development using HTML, CSS, and JavaScript. Happy coding!!!
+Happy coding!!!
 
 ## Project Links
 
