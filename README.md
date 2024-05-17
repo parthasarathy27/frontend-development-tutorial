@@ -117,8 +117,6 @@ function changeText() {
 let userInput = prompt("Enter your name:");
 alert("Hello, " + userInput + "!");
 ```
-Happy coding!!!
-
 ## Project Links
 
 1. https://parthasarathy27.github.io/frontend-development-tutorial/EMC%20Web%20Page%20HTML%20Project/starter/index.html
