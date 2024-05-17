@@ -126,6 +126,4 @@ alert("Hello, " + userInput + "!");
 5. https://parthasarathy27.github.io/frontend-development-tutorial/imageGallery/index.html
 6. https://parthasarathy27.github.io/frontend-development-tutorial/perfume%20project/index.html
 
-![image](https://www.p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png)
-
 Happy Coding!!🚀...
